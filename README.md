@@ -2,7 +2,7 @@
 
 A simple implementation of the Simon game in JavaScript.
 
-![Simon Game Screenshot](screenshot.png)
+![Simon Game Screenshot](Screenshot.png)
 
 ## How to Play
 
@@ -22,6 +22,7 @@ To play the game:
 - HTML
 - CSS
 - JavaScript
+- jQuery
 
 ## Demo
 
@@ -31,7 +32,7 @@ You can play the Simon game online by visiting the [Simon Game Demo](https://exa
 
 To run the game locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/simon-game.git`
+1. Clone the repository: `git clone https://github.com/Ambitama01/simon-game.git`
 2. Navigate to the project directory: `cd simon-game`
 3. Open the `index.html` file in your web browser.
 
